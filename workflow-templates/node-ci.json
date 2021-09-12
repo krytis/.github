@@ -1,0 +1,9 @@
+{
+    "name": "Node.js CI",
+    "description": "CI workflow for node.js projects.",
+    "iconName": "node-ci",
+    "categories": [
+        "TypeScript",
+        "JavaScript"
+    ]
+}
